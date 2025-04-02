@@ -1,4 +1,4 @@
-
+ 
 module spi_master #(parameter trig=1) (
   input clk,
   input rst,
